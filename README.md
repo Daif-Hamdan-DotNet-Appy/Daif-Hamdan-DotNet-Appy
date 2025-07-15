@@ -89,7 +89,7 @@ Full Stack .NET Developer with 2 years’ experience in ASP.NET Core MVC and API
 ![Adapter Pattern](https://img.shields.io/badge/Adapter%20Pattern-5F27CD?style=for-the-badge)
 ![Command Pattern](https://img.shields.io/badge/Command%20Pattern-00D2D3?style=for-the-badge)
 -->
-
+<!--
 ### Monitoring & Logging
 ![Logging](https://img.shields.io/badge/Logging-607D8B?style=for-the-badge&logo=logstash&logoColor=white)
 ![Serilog](https://img.shields.io/badge/Serilog-3C3C3C?style=for-the-badge)
@@ -211,5 +211,5 @@ public class DaifHamdan : Developer
 </p>
 
 
-
+-->
 
